@@ -1,0 +1,14 @@
+127.0.0.1 - - [22/Feb/2019:10:59:13 +0530] "GET / HTTP/1.1" 404 - http-bio-9000-exec-1 0
+127.0.0.1 - - [22/Feb/2019:10:59:13 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9000-exec-2 0
+127.0.0.1 - - [22/Feb/2019:10:59:23 +0530] "GET /springmvcsandbox HTTP/1.1" 302 - http-bio-9000-exec-3 0
+127.0.0.1 - - [22/Feb/2019:10:59:24 +0530] "GET /springmvcsandbox/ HTTP/1.1" 200 52 http-bio-9000-exec-4 1518
+127.0.0.1 - - [22/Feb/2019:12:09:07 +0530] "GET /springmvcsandbox/hello HTTP/1.1" 404 995 http-bio-9000-exec-1 77
+127.0.0.1 - - [22/Feb/2019:12:09:07 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9000-exec-2 0
+127.0.0.1 - - [22/Feb/2019:12:09:14 +0530] "GET /springmvcsandbox/hello.json HTTP/1.1" 500 8258 http-bio-9000-exec-3 754
+127.0.0.1 - - [22/Feb/2019:12:09:22 +0530] "GET /springmvcsandbox/hello.html HTTP/1.1" 500 8258 http-bio-9000-exec-4 23
+127.0.0.1 - - [22/Feb/2019:12:12:06 +0530] "GET /springmvcsandbox/hello.html HTTP/1.1" 500 10390 http-bio-9000-exec-1 1226
+127.0.0.1 - - [22/Feb/2019:12:14:25 +0530] "GET /springmvcsandbox/hello.html HTTP/1.1" 500 6040 http-bio-9000-exec-1 1380
+127.0.0.1 - - [22/Feb/2019:12:16:50 +0530] "GET /springmvcsandbox/hello.html HTTP/1.1" 200 52 http-bio-9000-exec-1 2799
+127.0.0.1 - - [22/Feb/2019:12:18:18 +0530] "GET /springmvcsandbox/hello HTTP/1.1" 200 52 http-bio-9000-exec-1 2776
+127.0.0.1 - - [22/Feb/2019:12:18:23 +0530] "GET /springmvcsandbox/helloh HTTP/1.1" 404 949 http-bio-9000-exec-2 7
+127.0.0.1 - - [22/Feb/2019:12:18:27 +0530] "GET /springmvcsandbox/hello HTTP/1.1" 200 52 http-bio-9000-exec-3 3
