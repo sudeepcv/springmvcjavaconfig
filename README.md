@@ -1,6 +1,5 @@
 
-spring mvc  servlet-config.xml and web.xml config using spring 5
-
+spring mvc  5 java configuration
 
 To run the project :
 
