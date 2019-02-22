@@ -6,3 +6,7 @@ To run the project :
 
 
 mvn tomcat7:run
+
+index:
+
+http://localhost:9000/springmvcsandbox/hello
